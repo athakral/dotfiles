@@ -5,7 +5,10 @@ new environment. For more specific local needs I use the `.local`
 files described in the [`Local Settings`](#local-settings) section.
 
 
+
 ## Setup
+
+## on ubuntu make sure to install xclip sudo apt-get install xclip
 
 To setup the dotfiles just run the appropriate snippet in the
 terminal:
